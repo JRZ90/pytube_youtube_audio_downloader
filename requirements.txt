@@ -1,0 +1,4 @@
+pytube @ git+https://github.com/nficano/pytube@4e12eb54d1ee72e41e9a7e53a3d708e300ccf661
+moviepy==1.0.3
+
+
